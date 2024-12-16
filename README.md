@@ -4,6 +4,6 @@ Welcome to a small subset of my projects
 - 🌱 I’m currently learning how to use React
 - 👯 I’m looking to incorporate more cool tech into the healthcare space
 
--->
+
 <!--
 
